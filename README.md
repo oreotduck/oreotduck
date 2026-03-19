@@ -32,4 +32,4 @@
 [![](https://visitcount.itsvg.in/api?id=oreotduck&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ## 💖 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/oreo_tduck) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/oreo_tduck) 
